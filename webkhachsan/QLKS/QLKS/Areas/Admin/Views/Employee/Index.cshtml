@@ -1,0 +1,88 @@
+﻿@model IEnumerable<QLKS.Models.tblNhanVien>
+
+@{
+    ViewBag.Title = "List Employee";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin2.cshtml";
+}
+
+<ol class="breadcrumb">
+    <li class="breadcrumb-item">
+        @Html.ActionLink("Admin", "Index")
+    </li>
+    <li class="breadcrumb-item active">@ViewBag.Title</li>
+</ol>
+<p>
+    @Html.ActionLink("Create Employee", "Create")
+</p>
+<div class="card mb-3">
+    <div class="card-header">
+        <i class="fa fa-table"></i> @ViewBag.Title
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+
+            <table class="table table-bordered table-striped table-hover" id="dataTable" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>
+                            Name
+                        </th>
+                        <th>
+                            Birthday
+                        </th>
+                        <th>
+                            Address
+                        </th>
+                        <th>
+                            Phone
+                        </th>
+                        <th>
+                            Account
+                        </th>
+                        <th>
+                            Role
+                        </th>@if (Session["NV"] != null && ((QLKS.Models.tblNhanVien)Session["NV"]).ma_chuc_vu <= 2)
+                        {
+                            <th></th>
+                        }
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ho_ten)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ngay_sinh)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.dia_chi)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.sdt)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.tai_khoan)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.tblChucVu.chuc_vu)
+                            </td>
+                            @if (Session["NV"] != null && ((QLKS.Models.tblNhanVien)Session["NV"]).ma_chuc_vu <= 2)
+                            {
+                                <td>
+                                    @Html.ActionLink("Edit", "Edit", new { id = item.ma_nv }) |
+                                    @Html.ActionLink("Details", "Details", new { id = item.ma_nv }) |
+                                    @Html.ActionLink("Delete", "Delete", new { id = item.ma_nv })
+
+                                </td>
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="card-footer small text-muted">Updated yesterday at @DateTime.Now</div>
+</div>

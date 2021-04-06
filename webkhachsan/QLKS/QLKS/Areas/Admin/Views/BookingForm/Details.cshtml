@@ -1,0 +1,74 @@
+﻿@model QLKS.Models.tblPhieuDatPhong
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin2.cshtml";
+}
+
+<ol class="breadcrumb">
+    <li class="breadcrumb-item">
+        <a href="@Url.Action("Index","Index")">Admin</a>
+    </li>
+    <li class="breadcrumb-item active">Booking Form details</li>
+</ol>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Name")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tblKhachHang.ho_ten)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayName("Day of booking")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngay_dat)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayName("Day in")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngay_vao)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Day out")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngay_ra)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayName("Room number")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tblPhong.so_phong)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Status")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tblTinhTrangPhieuDatPhong.tinh_trang)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ma_pdp }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,44 @@
+﻿@model QLKS.Models.tblPhieuDatPhong
+
+@{
+    ViewBag.Title = "Room Renewal";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin2.cshtml";
+}
+
+<ol class="breadcrumb">
+    <li class="breadcrumb-item">
+        <a href="@Url.Action("Index","Index")">Admin</a>
+    </li>
+    <li class="breadcrumb-item">
+        <a href="@Url.Action("ListRoomActive","Index")">List room active</a>
+    </li>
+    <li class="breadcrumb-item active">Change room @Model.tblPhong.so_phong</li>
+</ol>
+<div class="card mb-3">
+    <div class="card-header">
+        <i class="fa fa-table"></i> Change room @Model.tblPhong.so_phong
+    </div>
+    <div class="card-body">
+        @using (Html.BeginForm("ResultChangeRoom", "Bill"))
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(m => m.ma_pdp)
+        <div class="form-group">
+            @Html.Label("Change room from", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBox("ma_phong_cu",Model.tblPhong.so_phong, htmlAttributes: new { @class = "form-control", @readonly = "readonly" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("To room", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("ma_phong_moi", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.ma_phong, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <button class="btn btn-success">Confirm</button>
+            </div>
+        }
+        </div>
+    </div>

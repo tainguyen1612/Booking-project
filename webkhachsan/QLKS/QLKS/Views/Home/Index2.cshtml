@@ -1,0 +1,440 @@
+﻿
+@{
+    ViewBag.Title = "Vacay Home - Khách sạn như nhà nghỉ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!--end-->
+<div id="myCarousel1" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel1" data-slide-to="1"></li>
+        <li data-target="#myCarousel1" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="  /Content/Home/images/banner.png" style="width:100%; height: 500px" alt="First slide">
+            <div class="carousel-caption">
+                <h1>vacayhome<br> Best Hotel in Vietnam</h1>
+            </div>
+           
+        </div>
+        <div class="item">
+            <img src="  /Content/Home/images/banner2.png" style="width:100%; height: 500px" alt="Second slide">
+            <div class="carousel-caption">
+                <h1>vacayhome<br> Best Hotel in Vietnam</h1>
+            </div>
+        </div>
+        <div class="item">
+            <img src="  /Content/Home/images/banner3.png" style="width:100%; height: 500px" alt="Third slide">
+            <div class="carousel-caption">
+                <h1>vacayhome<br> Best Hotel in Vietnam</h1>
+            </div>
+        </div>
+
+    </div>
+    <a class="left carousel-control" href="#myCarousel1" data-slide="prev"> <img src="  /Content/Home/images/icons/left-arrow.png" onmouseover="this.src = '  /Content/Home/images/icons/left-arrow-hover.png'" onmouseout="this.src = '  /Content/Home/images/icons/left-arrow.png'" alt="left"></a>
+    <a class="right carousel-control" href="#myCarousel1" data-slide="next"><img src="  /Content/Home/images/icons/right-arrow.png" onmouseover="this.src = '  /Content/Home/images/icons/right-arrow-hover.png'" onmouseout="this.src = '  /Content/Home/images/icons/right-arrow.png'" alt="left"></a>
+
+</div>
+<div class="clearfix"></div>
+<!-- booking block -->
+<section class="booking-block">
+    <div class="container">
+        <div class="row">
+      
+            <div class="form-booking col-sm-9 animate-box" data-animate-effect="fadeInRight">
+                <div class="form-wrap">
+                    <div class="tab">
+
+                        <div class="tab-content">
+                            <div class="tab-content-inner active" data-content="signup">
+                                <h3 class="cursive-font">Booking Room</h3>
+                                @using (Html.BeginForm("FindRoom", "Home"))
+                                {
+                                    @*<div class="row form-group">
+                                    <div class="col-md-12">
+                                        <label for="activities">Type Room</label>
+                                        <select name="#" id="activities" class="form-control">
+                                            <option value="">All</option>
+                                            <option value="">Phòng đơn</option>
+                                            <option value="">Phòng đôi</option>
+                                            <option value="">Phòng VIP</option>
+                                        </select>
+                                    </div>
+                                </div>*@
+                                <div class="row form-group">
+                                    <div class="col-md-4">
+                                        <label for="date_start">Check-in</label>
+                                        @Html.TextBox("datestart", null, new { @class = "form-control" })
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <label for="date_end">Check-out</label>
+                                        @Html.TextBox("dateend", null, new { @class = "form-control" })
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <label for="date_end">Booking</label>
+                                        <input type="submit" onclick="return checkday()" class="btn btn-primary btn-block" value="Book Now">
+                                    </div>
+                                </div>
+                              
+                                }
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--service block--->
+<section class="service-block">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-3 col-xs-6 width-50">
+                <div class="service-details text-center">
+                    <div class="service-image">
+                        <img alt="image" class="img-responsive" src="/Content/Home/images/icons/wifi.png">
+                    </div>
+                    <h4><a>free wifi</a></h4>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-6 width-50">
+                <div class="service-details text-center">
+                    <div class="service-image">
+                        <img alt="image" class="img-responsive" src="  /Content/Home/images/icons/key.png">
+                    </div>
+                    <h4><a>room service</a></h4>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-6 mt-25">
+                <div class="service-details text-center">
+                    <div class="service-image">
+                        <img alt="image" class="img-responsive" src="  /Content/Home/images/icons/car.png">
+                    </div>
+                    <h4><a>free parking</a></h4>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-6 mt-25">
+                <div class="service-details text-center">
+                    <div class="service-image">
+                        <img alt="image" class="img-responsive" src="  /Content/Home/images/icons/user.png">
+                    </div>
+                    <h4><a>customer support</a></h4>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="gtco-section">
+    <div class="gtco-container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-center gtco-heading">
+                <h2 class="cursive-font primary-color">About Us</h2>
+                <p>The Vacay Hotel Hanoi is conveniently located in the heart of Hanoi's central business district, a 40 minute drive from Noi Bai international airport and only 5 minutes from the city centre and its Old Quarter. This makes our hotel ideal for business and leisure travelers.</p>
+            </div>
+        </div>
+        <div class="row">
+
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <a href="/Content/Home/images/roominfo.jpg" class="fh5co-card-item image-popup">
+                    <figure>
+                        <div class="overlay"><i class="ti-plus"></i></div>
+                        <img src="/Content/Home/images/roominfo.jpg" alt="Image" class="img-responsive">
+                    </figure>
+                    <div class="fh5co-text">
+                        <h2>Rooms</h2>
+                      
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <a href="/Content/Home/images/space1.jpg" class="fh5co-card-item image-popup">
+                    <figure>
+                        <div class="overlay"><i class="ti-plus"></i></div>
+                        <img src="/Content/Home/images/space1.jpg" alt="Image" class="img-responsive">
+                    </figure>
+                    <div class="fh5co-text">
+                        <h2>Atmosphere</h2>
+                     
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <a href="/Content/Home/images/exp1.jpg" class="fh5co-card-item image-popup">
+                    <figure>
+                        <div class="overlay"><i class="ti-plus"></i></div>
+                        <img src="/Content/Home/images/exp1.jpg" alt="Image" class="img-responsive">
+                    </figure>
+                    <div class="fh5co-text">
+                        <h2>Experience</h2>
+                    
+
+                    </div>
+                </a>
+            </div>
+
+
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <a href="/Content/Home/images/bar1.jpg" class="fh5co-card-item image-popup">
+                    <figure>
+                        <div class="overlay"><i class="ti-plus"></i></div>
+                        <img src="/Content/Home/images/bar1.jpg" alt="Image" class="img-responsive">
+                    </figure>
+                    <div class="fh5co-text">
+                        <h2>Bar</h2>
+                       
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <a href="/Content/Home/images/food-info.jpg" class="fh5co-card-item image-popup">
+                    <figure>
+                        <div class="overlay"><i class="ti-plus"></i></div>
+                        <img src="/Content/Home/images/food-info.jpg" alt="Image" class="img-responsive">
+                    </figure>
+                    <div class="fh5co-text">
+                        <h2>Food</h2>
+                     
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <a href="/Content/Home/images/happy1.jpg" class="fh5co-card-item image-popup">
+                    <figure>
+                        <div class="overlay"><i class="ti-plus"></i></div>
+                        <img src="/Content/Home/images/happy1.jpg" alt="Image" class="img-responsive">
+                    </figure>
+                    <div class="fh5co-text">
+                        <h2>Happy Toghether</h2>
+                      
+                    </div>
+                </a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!--gallery block--->
+<section class="gallery-block gallery-front">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                <div class="gallery-image">
+                    <img class="img-responsive" src="  /Content/Home/images/room1.png">
+                    <div class="overlay">
+                        <a class="info pop example-image-link img-responsive" href="  /Content/Home/images/room1.png" data-lightbox="example-1"><i class="fa fa-search" aria-hidden="true"></i></a>
+                        <p><a>delux room</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                <div class="gallery-image">
+                    <img class="img-responsive" src="  /Content/Home/images/room2.png">
+                    <div class="overlay">
+                        <a class="info pop example-image-link img-responsive" href="  /Content/Home/images/room2.png" data-lightbox="example-1"><i class="fa fa-search" aria-hidden="true"></i></a>
+                        <p><a>super room</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                <div class="gallery-image">
+                    <img class="img-responsive" src="  /Content/Home/images/room3.png">
+                    <div class="overlay">
+                        <a class="info pop example-image-link img-responsive" href="  /Content/Home/images/room3.png" data-lightbox="example-1"><i class="fa fa-search" aria-hidden="true"></i></a>
+                        <p><a>single room</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                <div class="gallery-image">
+                    <img class="img-responsive" src="  /Content/Home/images/room4.png">
+                    <div class="overlay">
+                        <a class="info pop example-image-link img-responsive" href="  /Content/Home/images/room4.png" data-lightbox="example-1"><i class="fa fa-search" aria-hidden="true"></i></a>
+                        <p><a>double room</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--offer block-->
+<section class="vacation-offer-block">
+    <div class="vacation-offer-bgbanner">
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-md-5 col-sm-6 col-xs-12">
+                    <div class="vacation-offer-details">
+                        <h1>Your vacation Awaits</h1>
+                        <h4>Lorem ipsum dolor sit amet, conse ctetuer adipiscing elit.</h4>
+                        <button type="button" class="btn btn-primary">Choose a package</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End-->
+<!----resort-overview--->
+<section class="resort-overview-block">
+    <div class="container">
+        <div class="row">
+            <h2 class="text-center primary-color">What make we special</h2>
+            <div class="col-md-6 col-sm-12 col-xs-12 remove-padd-right">
+                <div class="side-A">
+                    <div class="product-thumb">
+                        <div class="image">
+                            <a><img src="  /Content/Home/images/category1.png" class="img-responsive" alt="image"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="side-B">
+                    <div class="product-desc-side">
+                        <h3><a>luxury spa</a></h3>
+                        <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nunc lorem nulla, ornare eu felis luctus non maximus vitae, portt neque. ipsum dolor sit amet, consec adipiscing elit.</p>
+                       
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="col-md-6 col-sm-12 col-xs-12 remove-padd-left">
+                <div class="side-A">
+                    <div class="product-thumb">
+                        <div class="image">
+                            <a><img alt="image" class="img-responsive" src="  /Content/Home/images/category2.png"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="side-B">
+                    <div class="product-desc-side">
+                        <h3><a>Beatusish ingl</a></h3>
+                        <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nunc lorem nulla, ornare eu felis luctus non maximus vitae, portt neque. ipsum dolor sit amet, consec adipiscing elit.</p>
+                       
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="col-md-6 col-sm-12 col-xs-12 remove-padd-right">
+                <div class="side-A">
+                    <div class="product-desc-side">
+                        <h3><a>luxury room</a></h3>
+                        <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nunc lorem nulla, ornare eu felis luctus non maximus vitae, portt neque. ipsum dolor sit amet, consec adipiscing elit.</p>
+                       
+                    </div>
+                </div>
+
+                <div class="side-B">
+                    <div class="product-thumb">
+                        <div class="image txt-rgt">
+                            <a class="arrow-left"><img src="  /Content/Home/images/category3.png" class="img-responsive" alt="imaga"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="col-md-6 col-sm-12 col-xs-12 remove-padd-left">
+                <div class="side-A">
+                    <div class="product-desc-side">
+                        <h3><a>heaven seanery</a></h3>
+                        <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nunc lorem nulla, ornare eu felis luctus non maximus vitae, portt neque. ipsum dolor sit amet, consec adipiscing elit.</p>
+                        
+                    </div>
+                </div>
+
+                <div class="side-B">
+                    <div class="product-thumb txt-rgt">
+                        <div class="image">
+                            <a class="arrow-left"><img src="  /Content/Home/images/category4.png" class="img-responsive" alt="imaga"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+
+        </div>
+    </div>
+</section>
+
+<!-----blog slider----->
+<!--blog trainer block-->
+<section class="blog-block-slider">
+    <div class="blog-block-slider-fix-image">
+        <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+            <div class="container">
+                <!-- Wrapper for slides -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel2" data-slide-to="1"></li>
+                    <li data-target="#myCarousel2" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <div class="blog-box">
+                            <p> During 17 – 19th February, The Singha Corporation held the company’s annual conference ‘Roi duang jai Singha’ at Royal Cliff. This is one of our most important event where numerous VIP attended including the board of directors. The Royal Cliff’s team did an outstanding job. Everyone was very happy and our meeting was a success. On behalf of Singha Corporation I would like to express my gratitude to the Royal Cliff Group. It will be difficult for us to find another venue and great service to match this. </p>
+                        </div>
+                        <div class="blog-view-box">
+                            <div class="media">
+                                <div class="media-left">
+                                    <img src="  /Content/Home/images/client1.png" class="media-object">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="media-heading blog-title">Tee Vachiramon</h3>
+                                    <h5 class="blog-rev">Marketing Director</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="blog-box">
+                            <p> We had our company annual offsite at Royal Cliff in Pattaya. Royal Cliff was the perfect choice for us: there are multiple large event spaces for various activities and the great staff made sure the events went smoothly. The hotel food was also of a very high quality with an impressive choice at breakfast. Combined with a stunning view of the sea and a private beach, we couldn’t have asked for a better place for our company. Thank you for making our trip so special. </p>
+                        </div>
+                        <div class="blog-view-box">
+                            <div class="media">
+                                <div class="media-left">
+                                    <img src="  /Content/Home/images/client2.png" class="media-object">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="media-heading blog-title">Justin Jackson</h3>
+                                    <h5 class="blog-rev">Sale Manager</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="blog-box">
+                            <p>
+                                The hospitality and services provided by each staff of the hotel were excellent, they attended us well at all times and we were impressed by their courtesy. We enjoyed our stay and convey thanks to all associated with the hotel. Special thanks to Khun Gap, who took very good care of our group since the inspection day until the end of the trip. We really appreciate ka. We hope to come again soon.
+                            </p>
+                        </div>
+                        <div class="blog-view-box">
+                            <div class="media">
+                                <div class="media-left">
+                                    <img src="  /Content/Home/images/client3.png" class="media-object">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="media-heading blog-title">Antonio Vidal</h3>
+                                    <h5 class="blog-rev">Web Developer</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</section>
+
+<!---blog block--->
+

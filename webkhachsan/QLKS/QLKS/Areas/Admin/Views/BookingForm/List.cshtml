@@ -1,0 +1,81 @@
+﻿@model IEnumerable<QLKS.Models.tblPhieuDatPhong>
+
+@{
+    ViewBag.Title = "Booking Form list";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin2.cshtml";
+}
+
+<ol class="breadcrumb">
+    <li class="breadcrumb-item">
+        <a href="@Url.Action("Index","Index")">Admin</a>
+    </li>
+    <li class="breadcrumb-item active">Booking Form</li>
+</ol>
+<div class="card mb-3">
+    <div class="card-header">
+        <i class="fa fa-table"></i> @ViewBag.Title day @DateTime.Now.Day / @DateTime.Now.Month / @DateTime.Now.Year
+
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered table-striped table-hover" id="dataTable" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayName("ID ")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Name")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Day booking")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Day in")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Day out")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Number")
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ma_kh)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.tblKhachHang.ho_ten)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ngay_dat)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ngay_vao)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ngay_ra)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.tblPhong.so_phong)
+                            </td>
+                            <td>
+                                @*@Html.ActionLink("Đặt Phòng", "HoaDon", new { id = item.ma_pdp })*@
+                                <a class="nav-link" href="@Url.Action("Add", "Bill", new { id = item.ma_pdp })">Check in</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="card-footer small text-muted">Updated yesterday at @DateTime.Now</div>
+</div>
+

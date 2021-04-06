@@ -1,0 +1,80 @@
+﻿@model QLKS.Models.tblPhieuDatPhong
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<header id="gtco-header" class="gtco-cover gtco-cover-md g-header" role="banner" style="background-image: url(/Content/Home/images/hotel2.jpg)" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+</header>
+<div class="container">
+    <br /><br /><br /><br />
+
+    <h3>Do You want to cancel your booking ?</h3>
+    <div>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayName("Customer Name")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.tblKhachHang.ho_ten)
+            </dd>
+
+
+            <dt>
+                @Html.DisplayName("Date of booking")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ngay_dat)
+            </dd>
+
+
+            <dt>
+                @Html.DisplayName("Day in")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ngay_vao)
+            </dd>
+
+            <dt>
+                @Html.DisplayName("Day out")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ngay_ra)
+            </dd>
+
+
+            <dt>
+                @Html.DisplayName("Room number")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.tblPhong.so_phong)
+            </dd>
+
+            <dt>
+                @Html.DisplayName("Status")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.tblTinhTrangPhieuDatPhong.tinh_trang)
+            </dd>
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Cancel" class="btn btn-primary" />
+            </div>
+        }
+    </div>
+    <br/>
+    </div>

@@ -1,0 +1,138 @@
+﻿@model IEnumerable<QLKS.Models.tblHoaDon>
+
+@{
+    ViewBag.Title = "List Bill";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<header id="gtco-header" class="gtco-cover gtco-cover-md g-header" role="banner" style="background-image: url(/Content/Home/images/hotel.jpg)" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+</header>
+<div class="container">
+    <br /><br /><br /><br />
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">List Bill</h3>
+        </div>
+        <div class="panel-body">
+                    <table class="table table-bordered" id="dataTable" cellspacing="0">
+                        <thead>
+                            <tr>
+                                <th>
+                                    ID
+                                </th>
+                                <th>
+                                    Room Number
+                                </th>
+                                <th>
+                                    Day in
+                                </th>
+                                <th>
+                                   Day out
+                                </th>
+                                <th>
+                                   Room Charge
+
+                                </th>
+                                <th>
+                                    Service Charge
+                                </th>
+
+                                <th>
+                                    Surcharge
+                                </th>
+                                <th>
+                                    Total Money
+                                </th>
+                                <th>
+                                    Status
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                if (item.ma_tinh_trang == 2)
+                                {
+                            <tr class="alert-success">
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.ma_hd)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.tblPhieuDatPhong.tblPhong.so_phong)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.tblPhieuDatPhong.ngay_vao)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.ngay_tra_phong)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.tien_phong)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.tien_dich_vu)
+                                </td>
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.phu_thu)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.tong_tien)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.tblTinhTrangHoaDon.mo_ta)
+                                </td>
+                                <td>
+                                    @*@Html.ActionLink("Edit", "Edit", new { id = item.ma_hd }) |
+            @Html.ActionLink("Details", "Details", new { id = item.ma_hd }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ma_hd })*@
+                                    @Html.ActionLink("Detail", "BillDetail", new { id = item.ma_hd })
+                                </td>
+                            </tr>
+                                }
+                                else
+                                {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.ma_hd)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.tblPhieuDatPhong.tblPhong.so_phong)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.tblPhieuDatPhong.ngay_vao)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.tblPhieuDatPhong.ngay_ra)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.tien_phong)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.tien_dich_vu)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.phu_thu)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.tong_tien)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.tblTinhTrangHoaDon.mo_ta)
+                                        </td>
+                                        <td>
+                                            @*@Html.ActionLink("Edit", "Edit", new { id = item.ma_hd }) |
+            @Html.ActionLink("Details", "Details", new { id = item.ma_hd }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ma_hd })*@
+                                            @Html.ActionLink("Detail", "BillDetail", new { id = item.ma_hd })
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+    </div>
+</div>
+</div>

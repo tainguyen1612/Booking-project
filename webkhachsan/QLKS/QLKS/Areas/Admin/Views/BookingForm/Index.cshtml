@@ -1,0 +1,151 @@
+﻿@model IEnumerable<QLKS.Models.tblPhieuDatPhong>
+
+@{
+    ViewBag.Title = "Danh sách phiếu đặt 
+    ";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin2.cshtml";
+}
+
+<ol class="breadcrumb">
+    <li class="breadcrumb-item">
+        <a href="@Url.Action("Index","Index")">Admin</a>
+    </li>
+    <li class="breadcrumb-item active">Booking Form</li>
+</ol>
+<div class="card mb-3">
+    <div class="card-header">
+        <i class="fa fa-table"></i> Booking Form
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayName("ID")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Name")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Day of booking")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Day in")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Day out")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Number")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Status")
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+    {
+        if (item.ma_tinh_trang == 1)
+        {
+                <tr class="alert-warning">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ma_kh)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.tblKhachHang.ho_ten)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ngay_dat)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ngay_vao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ngay_ra)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.tblPhong.so_phong)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.tblTinhTrangPhieuDatPhong.tinh_trang)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.ma_pdp }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.ma_pdp }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.ma_pdp })
+                    </td>
+                </tr>
+}
+else if (item.ma_tinh_trang == 2 || item.ma_tinh_trang == 4)
+{
+                <tr class="alert-primary">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ma_kh)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.tblKhachHang.ho_ten)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ngay_dat)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ngay_vao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ngay_ra)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.tblPhong.so_phong)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.tblTinhTrangPhieuDatPhong.tinh_trang)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Details", "Details", new { id = item.ma_pdp })
+                    </td>
+                </tr>
+}
+else
+{
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ma_kh)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.tblKhachHang.ho_ten)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ngay_dat)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ngay_vao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ngay_ra)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.tblPhong.so_phong)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.tblTinhTrangPhieuDatPhong.tinh_trang)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Details", "Details", new { id = item.ma_pdp }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.ma_pdp })
+                    </td>
+                </tr>
+}
+}
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="card-footer small text-muted">Updated yesterday at @DateTime.Now</div>
+</div>
+

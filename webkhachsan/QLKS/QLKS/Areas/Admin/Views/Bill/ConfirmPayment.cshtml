@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "XacNhanThanhToan";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin2.cshtml";
+}
+
+<ol class="breadcrumb">
+    <li class="breadcrumb-item">
+        <a href="@Url.Action("Index","Index")">Admin</a>
+    </li>
+    <li class="breadcrumb-item active">Result</li>
+</ol>
+@{
+    if (ViewBag.result == "success")
+    {
+        <div class="alert alert-success" role="alert">
+            <h2 style="color:#3c763d">Finish Payment.</h2>
+        </div>
+        <div class="alert alert-warning" role="alert"> The room is switched to housekeeping! Or change the state of the room after cleaning !</div>
+    }
+    else
+    {
+        <div class="alert alert-danger" role="alert">Error !<br /></div>
+    }
+    @*<a href="@Url.Action("Payment","Biil",new { id = ViewBag.ma_hd })"><i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Bill</a> <b> | </b>
+    <a href='@Url.Action("Index","Bill")'><i class="fa fa-list-ul" aria-hidden="true"></i> Invoice List </a>*@
+}

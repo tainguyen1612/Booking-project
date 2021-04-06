@@ -1,0 +1,605 @@
+I:\dotNet_Project\QLKS\QLKS\bin\ApplicationInsights.config
+I:\dotNet_Project\QLKS\QLKS\bin\QLKS.dll.config
+I:\dotNet_Project\QLKS\QLKS\bin\QLKS.dll
+I:\dotNet_Project\QLKS\QLKS\bin\QLKS.pdb
+I:\dotNet_Project\QLKS\QLKS\bin\Antlr3.Runtime.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AI.Agent.Intercept.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AI.DependencyCollector.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AI.Web.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AI.WindowsServer.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.ApplicationInsights.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.Web.Infrastructure.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Newtonsoft.Json.dll
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.Helpers.dll
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.Mvc.dll
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.Optimization.dll
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.Razor.dll
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.WebPages.Deployment.dll
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.WebPages.dll
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.WebPages.Razor.dll
+I:\dotNet_Project\QLKS\QLKS\bin\WebGrease.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.Helpers.xml
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.Mvc.xml
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.Optimization.xml
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.Razor.xml
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.WebPages.xml
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.WebPages.Deployment.xml
+I:\dotNet_Project\QLKS\QLKS\bin\System.Web.WebPages.Razor.xml
+I:\dotNet_Project\QLKS\QLKS\bin\Antlr3.Runtime.pdb
+I:\dotNet_Project\QLKS\QLKS\bin\Newtonsoft.Json.xml
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.ApplicationInsights.xml
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AI.DependencyCollector.xml
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AI.WindowsServer.xml
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AI.Web.xml
+I:\dotNet_Project\QLKS\QLKS\obj\Debug\QLKS.csprojResolveAssemblyReference.cache
+I:\dotNet_Project\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+I:\dotNet_Project\QLKS\QLKS\obj\Debug\QLKS.dll
+I:\dotNet_Project\QLKS\QLKS\obj\Debug\QLKS.pdb
+I:\dotNet_Project\QLKS\QLKS\bin\EntityFramework.dll
+I:\dotNet_Project\QLKS\QLKS\bin\EntityFramework.SqlServer.dll
+I:\dotNet_Project\QLKS\QLKS\bin\EntityFramework.xml
+I:\dotNet_Project\QLKS\QLKS\bin\EntityFramework.SqlServer.xml
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.Core.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.Owin.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.Owin.Security.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Owin.dll
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.Core.xml
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.Owin.xml
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\dotNet_Project\QLKS\QLKS\bin\Microsoft.Owin.Security.xml
+I:\dotNet_Project\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\ApplicationInsights.config
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\QLKS.dll.config
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\QLKS.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\QLKS.pdb
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Antlr3.Runtime.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\EntityFramework.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\EntityFramework.SqlServer.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AI.DependencyCollector.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AI.Web.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AI.WindowsServer.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.ApplicationInsights.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.Owin.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.Owin.Security.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.Web.Infrastructure.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Newtonsoft.Json.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Owin.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.Helpers.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.Mvc.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.Optimization.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.Razor.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.WebPages.Deployment.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.WebPages.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.WebPages.Razor.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\WebGrease.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\EntityFramework.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\EntityFramework.SqlServer.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.Owin.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.Owin.Security.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.Helpers.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.Mvc.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.Optimization.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.Razor.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.WebPages.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.WebPages.Deployment.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\System.Web.WebPages.Razor.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Antlr3.Runtime.pdb
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Newtonsoft.Json.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.ApplicationInsights.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AI.DependencyCollector.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AI.WindowsServer.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\bin\Microsoft.AI.Web.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\obj\Debug\QLKS.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QuanLyKhachSan\SOURCE\QLKS\QLKS\obj\Debug\QLKS.pdb
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\ApplicationInsights.config
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\QLKS.dll.config
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\QLKS.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\QLKS.pdb
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Antlr3.Runtime.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\EntityFramework.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\EntityFramework.SqlServer.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.DependencyCollector.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.Web.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.WindowsServer.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.ApplicationInsights.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Owin.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Owin.Security.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Web.Infrastructure.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Newtonsoft.Json.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Owin.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.Http.Formatting.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.Helpers.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.Http.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.Http.WebHost.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.Mvc.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.Optimization.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.Razor.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.WebPages.Deployment.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.WebPages.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.WebPages.Razor.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\WebGrease.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\EntityFramework.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\EntityFramework.SqlServer.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Owin.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Owin.Security.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.Http.Formatting.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.Http.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.Http.WebHost.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.Helpers.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.Mvc.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.Optimization.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.Razor.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.WebPages.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.WebPages.Deployment.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Web.WebPages.Razor.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Antlr3.Runtime.pdb
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Newtonsoft.Json.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.ApplicationInsights.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.DependencyCollector.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.WindowsServer.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.Web.xml
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\obj\Debug\QLKS.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\obj\Debug\QLKS.pdb
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Win32.Primitives.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\netstandard.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.AppContext.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Collections.Concurrent.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Collections.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Collections.NonGeneric.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Collections.Specialized.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.ComponentModel.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.ComponentModel.EventBasedAsync.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.ComponentModel.Primitives.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.ComponentModel.TypeConverter.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Console.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Data.Common.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.Contracts.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.Debug.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.FileVersionInfo.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.Process.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.StackTrace.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.Tools.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.TraceSource.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.Tracing.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Drawing.Primitives.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Dynamic.Runtime.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Globalization.Calendars.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Globalization.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Globalization.Extensions.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.IO.Compression.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.IO.Compression.ZipFile.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.IO.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.IO.FileSystem.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.IO.FileSystem.DriveInfo.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.IO.FileSystem.Primitives.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.IO.FileSystem.Watcher.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.IO.IsolatedStorage.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.IO.MemoryMappedFiles.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.IO.Pipes.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.IO.UnmanagedMemoryStream.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Linq.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Linq.Expressions.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Linq.Parallel.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Linq.Queryable.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.Http.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.NameResolution.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.NetworkInformation.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.Ping.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.Primitives.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.Requests.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.Security.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.Sockets.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.WebHeaderCollection.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.WebSockets.Client.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Net.WebSockets.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.ObjectModel.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Reflection.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Reflection.Extensions.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Reflection.Primitives.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Resources.Reader.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Resources.ResourceManager.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Resources.Writer.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Extensions.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Handles.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.InteropServices.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Numerics.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Serialization.Formatters.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Serialization.Json.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Serialization.Primitives.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Serialization.Xml.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Security.Claims.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Security.Cryptography.Algorithms.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Security.Cryptography.Csp.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Security.Cryptography.Encoding.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Security.Cryptography.Primitives.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Security.Cryptography.X509Certificates.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Security.Principal.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Security.SecureString.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Text.Encoding.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Text.Encoding.Extensions.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Text.RegularExpressions.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Threading.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Threading.Overlapped.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Threading.Tasks.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Threading.Tasks.Parallel.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Threading.Thread.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Threading.ThreadPool.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Threading.Timer.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.ValueTuple.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Xml.ReaderWriter.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Xml.XDocument.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Xml.XmlDocument.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Xml.XmlSerializer.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Xml.XPath.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\System.Xml.XPath.XDocument.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\BraintreeHttp-Dotnet.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\PayPal.dll
+E:\CODE\Aspm.net\QLKSFinal4\QLKS\QLKS\bin\PayPal.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\ApplicationInsights.config
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\QLKS.dll.config
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\QLKS.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\QLKS.pdb
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Win32.Primitives.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\netstandard.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.AppContext.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Collections.Concurrent.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Collections.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Collections.NonGeneric.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Collections.Specialized.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.ComponentModel.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.ComponentModel.EventBasedAsync.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.ComponentModel.Primitives.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.ComponentModel.TypeConverter.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Console.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Data.Common.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.Contracts.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.Debug.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.FileVersionInfo.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.Process.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.StackTrace.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.Tools.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.TraceSource.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Diagnostics.Tracing.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Drawing.Primitives.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Dynamic.Runtime.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Globalization.Calendars.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Globalization.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Globalization.Extensions.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.IO.Compression.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.IO.Compression.ZipFile.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.IO.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.IO.FileSystem.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.IO.FileSystem.DriveInfo.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.IO.FileSystem.Primitives.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.IO.FileSystem.Watcher.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.IO.IsolatedStorage.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.IO.MemoryMappedFiles.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.IO.Pipes.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.IO.UnmanagedMemoryStream.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Linq.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Linq.Expressions.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Linq.Parallel.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Linq.Queryable.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.Http.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.NameResolution.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.NetworkInformation.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.Ping.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.Primitives.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.Requests.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.Security.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.Sockets.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.WebHeaderCollection.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.WebSockets.Client.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.WebSockets.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.ObjectModel.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Reflection.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Reflection.Extensions.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Reflection.Primitives.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Resources.Reader.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Resources.ResourceManager.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Resources.Writer.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Extensions.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Handles.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.InteropServices.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Numerics.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Serialization.Formatters.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Serialization.Json.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Serialization.Primitives.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Runtime.Serialization.Xml.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Security.Claims.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Security.Cryptography.Algorithms.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Security.Cryptography.Csp.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Security.Cryptography.Encoding.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Security.Cryptography.Primitives.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Security.Cryptography.X509Certificates.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Security.Principal.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Security.SecureString.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Text.Encoding.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Text.Encoding.Extensions.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Text.RegularExpressions.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Threading.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Threading.Overlapped.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Threading.Tasks.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Threading.Tasks.Parallel.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Threading.Thread.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Threading.ThreadPool.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Threading.Timer.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.ValueTuple.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Xml.ReaderWriter.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Xml.XDocument.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Xml.XmlDocument.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Xml.XmlSerializer.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Xml.XPath.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Xml.XPath.XDocument.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Antlr3.Runtime.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\BraintreeHttp-Dotnet.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\EntityFramework.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\EntityFramework.SqlServer.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.DependencyCollector.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.Web.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.WindowsServer.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.ApplicationInsights.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Owin.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Owin.Security.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Web.Infrastructure.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Newtonsoft.Json.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Owin.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\PayPal.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.Http.Formatting.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.Helpers.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.Http.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.Http.WebHost.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.Mvc.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.Optimization.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.Razor.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.WebPages.Deployment.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.WebPages.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.WebPages.Razor.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\WebGrease.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\EntityFramework.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\EntityFramework.SqlServer.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Owin.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.Owin.Security.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Newtonsoft.Json.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\PayPal.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Net.Http.Formatting.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.Http.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.Http.WebHost.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.Helpers.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.Mvc.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.Optimization.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.Razor.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.WebPages.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.WebPages.Deployment.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\System.Web.WebPages.Razor.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Antlr3.Runtime.pdb
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.ApplicationInsights.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.DependencyCollector.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.WindowsServer.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\bin\Microsoft.AI.Web.xml
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\obj\Debug\QLKS.dll
+D:\THE STUDYING FILES\PROGRAMING\ANTON\Freelance\QLKSFinal4\QLKS\QLKS\obj\Debug\QLKS.pdb
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\obj\Debug\QLKS.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\obj\Debug\QLKS.pdb
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\ApplicationInsights.config
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\QLKS.dll.config
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\QLKS.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\QLKS.pdb
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.Win32.Primitives.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\netstandard.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.AppContext.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Collections.Concurrent.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Collections.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Collections.NonGeneric.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Collections.Specialized.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.ComponentModel.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.ComponentModel.EventBasedAsync.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.ComponentModel.Primitives.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.ComponentModel.TypeConverter.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Console.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Data.Common.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Diagnostics.Contracts.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Diagnostics.Debug.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Diagnostics.FileVersionInfo.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Diagnostics.Process.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Diagnostics.TextWriterTraceListener.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Diagnostics.Tools.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Diagnostics.TraceSource.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Diagnostics.Tracing.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Drawing.Primitives.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Dynamic.Runtime.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Globalization.Calendars.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Globalization.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Globalization.Extensions.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.IO.Compression.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.IO.Compression.ZipFile.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.IO.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.IO.FileSystem.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.IO.FileSystem.DriveInfo.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.IO.FileSystem.Watcher.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.IO.IsolatedStorage.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.IO.MemoryMappedFiles.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.IO.Pipes.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.IO.UnmanagedMemoryStream.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Linq.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Linq.Expressions.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Linq.Parallel.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Linq.Queryable.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.Http.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.NameResolution.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.NetworkInformation.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.Ping.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.Primitives.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.Requests.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.Security.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.Sockets.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.WebHeaderCollection.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.WebSockets.Client.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.WebSockets.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.ObjectModel.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Reflection.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Reflection.Extensions.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Reflection.Primitives.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Resources.Reader.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Resources.ResourceManager.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Resources.Writer.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Runtime.CompilerServices.VisualC.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Runtime.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Runtime.Extensions.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Runtime.Handles.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Runtime.InteropServices.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Runtime.Numerics.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Runtime.Serialization.Formatters.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Runtime.Serialization.Json.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Runtime.Serialization.Primitives.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Runtime.Serialization.Xml.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Security.Claims.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Security.Cryptography.Algorithms.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Security.Cryptography.Csp.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Security.Cryptography.Encoding.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Security.Cryptography.Primitives.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Security.Cryptography.X509Certificates.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Security.Principal.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Security.SecureString.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Text.Encoding.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Text.Encoding.Extensions.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Text.RegularExpressions.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Threading.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Threading.Overlapped.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Threading.Tasks.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Threading.Tasks.Parallel.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Threading.Thread.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Threading.ThreadPool.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Threading.Timer.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.ValueTuple.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Xml.ReaderWriter.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Xml.XDocument.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Xml.XmlDocument.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Xml.XmlSerializer.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Xml.XPath.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Xml.XPath.XDocument.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Antlr3.Runtime.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\BraintreeHttp-Dotnet.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\EntityFramework.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.Core.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.Owin.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Owin.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\PayPal.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.Helpers.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.Http.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.Mvc.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.Optimization.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.Razor.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.WebPages.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\WebGrease.dll
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\EntityFramework.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.Core.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.Owin.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Newtonsoft.Json.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\PayPal.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.Http.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.Helpers.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.Mvc.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.Optimization.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.Razor.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.WebPages.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Downloads\webkhachsan\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
